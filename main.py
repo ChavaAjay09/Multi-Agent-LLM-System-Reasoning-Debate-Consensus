@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
 
 # ===============================
 # STEP 1: Mount Google Drive
@@ -11,20 +6,10 @@
 from google.colab import drive
 drive.mount('/content/drive')
 
-
-# In[ ]:
-
-
 get_ipython().system('pip install -U torch transformers accelerate peft datasets bitsandbytes sentencepiece huggingface_hub')
 
 
-# In[ ]:
-
-
 pip install openai-whisper pytesseract pillow ffmpeg
-
-
-# In[ ]:
 
 
 from huggingface_hub import login
@@ -50,8 +35,6 @@ snapshot_download(
 
 print(f"✅ Model successfully downloaded to: {save_dir}")
 
-
-# In[ ]:
 
 
 from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
@@ -92,7 +75,6 @@ outputs = model.generate(**inputs, max_new_tokens=150)
 print(tokenizer.decode(outputs[0], skip_special_tokens=True))
 
 
-# In[ ]:
 
 
 import json
@@ -259,14 +241,11 @@ for text in test_texts:
     print(f"Prediction: {result}")
 
 
-# In[ ]:
 
 
 classifier = DomainClassifier("/content/drive/MyDrive/chainmind/DistilBERT")
 print(classifier.classify("The doctor prescribed antibiotics after the surgery."))
 
-
-# In[ ]:
 
 
 # ======================================
@@ -442,8 +421,6 @@ tokenizer.save_pretrained(OUTPUT_PATH)
 print(f"✅ LoRA adapter saved successfully to: {OUTPUT_PATH}")
 
 
-# In[ ]:
-
 
 import sys
 import os
@@ -457,7 +434,6 @@ if project_root not in sys.path:
 print("✅ Project root added to sys.path:", project_root)
 
 
-# In[ ]:
 
 
 import nltk
@@ -467,7 +443,6 @@ nltk.download('punkt_tab')
 get_ipython().system('pip install rouge-score textblob nltk transformers torch bert-score')
 
 
-# In[ ]:
 
 
 # test_combined_metrics.py
@@ -530,13 +505,10 @@ if __name__ == "__main__":
     test_combined_metrics()
 
 
-# In[ ]:
 
 
 get_ipython().system('touch input_handlers/__init__.py core/__init__.py utils/__init__.py')
 
-
-# In[ ]:
 
 
 # main.py
@@ -676,45 +648,5 @@ if __name__ == "__main__":
     run_application()
 
 
-# In[ ]:
 
-
-from google.colab import drive
-drive.mount('/content/drive')
-
-
-# In[ ]:
-
-
-import shutil
-import os
-
-directory_to_delete = "/content/drive/MyDrive/chainmind/model_loader_mistral"
-
-if os.path.exists(directory_to_delete):
-    print(f"Deleting directory: {directory_to_delete}")
-    shutil.rmtree(directory_to_delete)
-    print(f"✅ Directory deleted successfully: {directory_to_delete}")
-else:
-    print(f"Directory not found: {directory_to_delete}")
-
-
-# In[ ]:
-
-
-import os
-import shutil
-
-for item in os.listdir("/content"):
-    item_path = os.path.join("/content", item)
-    try:
-        if os.path.isfile(item_path) or os.path.islink(item_path):
-            os.unlink(item_path)  # delete file or symlink
-        elif os.path.isdir(item_path):
-            shutil.rmtree(item_path)  # delete folder
-        print(f"Deleted: {item_path}")
-    except Exception as e:
-        print(f"Error deleting {item_path}: {e}")
-
-print("✅ All files in local disk cleared!")
 
