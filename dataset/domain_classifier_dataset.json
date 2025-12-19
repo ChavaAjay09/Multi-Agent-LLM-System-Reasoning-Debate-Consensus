@@ -1,0 +1,782 @@
+[
+  {
+    "text": "The patient's chart indicated a history of hypertension.",
+    "domain": "medical"
+  },
+  {
+    "text": "A preliminary injunction was filed to halt the company's merger.",
+    "domain": "legal"
+  },
+  {
+    "text": "We enjoyed a wonderful picnic by the lake yesterday afternoon.",
+    "domain": "general"
+  },
+  {
+    "text": "The surgeon reviewed the MRI scans before the operation.",
+    "domain": "medical"
+  },
+  {
+    "text": "Both parties must sign the addendum for it to be legally binding.",
+    "domain": "legal"
+  },
+  {
+    "text": "The new sci-fi movie is breaking box office records.",
+    "domain": "general"
+  },
+  {
+    "text": "The pharmaceutical company is developing a new vaccine.",
+    "domain": "medical"
+  },
+  {
+    "text": "He was held in contempt of court for his outburst.",
+    "domain": "legal"
+  },
+  {
+    "text": "Learning to bake sourdough bread requires a lot of patience.",
+    "domain": "general"
+  },
+  {
+    "text": "Her physical therapy sessions are scheduled for twice a week.",
+    "domain": "medical"
+  },
+  {
+    "text": "The patent application was rejected due to prior art.",
+    "domain": "legal"
+  },
+  {
+    "text": "The city's architecture is a mix of modern and classical styles.",
+    "domain": "general"
+  },
+  {
+    "text": "A biopsy was taken to test for malignant cells.",
+    "domain": "medical"
+  },
+  {
+    "text": "The witness provided a sworn affidavit to the police.",
+    "domain": "legal"
+  },
+  {
+    "text": "The stock market has been very volatile this quarter.",
+    "domain": "general"
+  },
+  {
+    "text": "The doctor's legal team advised him on the malpractice suit.",
+    "domain": "legal"
+  },
+  {
+    "text": "The patient has a legal right to access their own medical records.",
+    "domain": "legal"
+  },
+  {
+    "text": "His vitals are stable, but we're keeping him for observation.",
+    "domain": "medical"
+  },
+  {
+    "text": "The new legislation aims to protect consumer data.",
+    "domain": "legal"
+  },
+  {
+    "text": "She wrote a beautiful poem about the changing seasons.",
+    "domain": "general"
+  },
+  {
+    "text": "The clinical trial is now entering its third phase.",
+    "domain": "medical"
+  },
+  {
+    "text": "He was granted parole after serving ten years of his sentence.",
+    "domain": "legal"
+  },
+  {
+    "text": "My favorite hobby is landscape photography.",
+    "domain": "general"
+  },
+  {
+    "text": "The paramedic administered CPR at the scene of the accident.",
+    "domain": "medical"
+  },
+  {
+    "text": "To be a valid will, it must be signed by two witnesses.",
+    "domain": "legal"
+  },
+  {
+    "text": "The chef prepared a five-course meal for the guests.",
+    "domain": "general"
+  },
+  {
+    "text": "An epidemic of influenza spread through the community.",
+    "domain": "medical"
+  },
+  {
+    "text": "The corporation is under investigation for antitrust violations.",
+    "domain": "legal"
+  },
+  {
+    "text": "He's training for a marathon that takes place next month.",
+    "domain": "general"
+  },
+  {
+    "text": "The nurse checked the patient's blood pressure.",
+    "domain": "medical"
+  },
+  {
+    "text": "A search warrant was issued based on probable cause.",
+    "domain": "legal"
+  },
+  {
+    "text": "The historian is researching ancient Roman trade routes.",
+    "domain": "general"
+  },
+  {
+    "text": "The pediatrician specializes in childhood developmental disorders.",
+    "domain": "medical"
+  },
+  {
+    "text": "The terms of the non-disclosure agreement are strictly confidential.",
+    "domain": "legal"
+  },
+  {
+    "text": "The software update includes several new features and bug fixes.",
+    "domain": "general"
+  },
+  {
+    "text": "The patient's insurance claim for the surgery was denied.",
+    "domain": "medical"
+  },
+  {
+    "text": "He was acquitted of all charges.",
+    "domain": "legal"
+  },
+  {
+    "text": "The concert was sold out within minutes of tickets going on sale.",
+    "domain": "general"
+  },
+  {
+    "text": "Anesthesiology is a critical specialty in surgical procedures.",
+    "domain": "medical"
+  },
+  {
+    "text": "The lawyer's closing argument was a surgical strike against the prosecution's case.",
+    "domain": "general"
+  },
+  {
+    "text": "The new environmental regulations will face a court challenge.",
+    "domain": "legal"
+  },
+  {
+    "text": "The novel's plot has a very complex legal and medical drama at its core.",
+    "domain": "general"
+  },
+  {
+    "text": "Oncology is the branch of medicine that deals with tumors.",
+    "domain": "medical"
+  },
+  {
+    "text": "He studied constitutional law at a prestigious university.",
+    "domain": "legal"
+  },
+  {
+    "text": "The art gallery is hosting an exhibition of impressionist paintings.",
+    "domain": "general"
+  },
+  {
+    "text": "The patient's symptoms include fever and a persistent cough.",
+    "domain": "medical"
+  },
+  {
+    "text": "The company was found liable for damages in the civil suit.",
+    "domain": "legal"
+  },
+  {
+    "text": "My car's engine is making a strange noise.",
+    "domain": "general"
+  },
+  {
+    "text": "A new treatment for Alzheimer's disease is showing promising results.",
+    "domain": "medical"
+  },
+  {
+    "text": "The judge recused himself from the case due to a conflict of interest.",
+    "domain": "legal"
+  },
+  {
+    "text": "The documentary explores the history of jazz music.",
+    "domain": "general"
+  },
+  {
+    "text": "He underwent a successful coronary bypass surgery.",
+    "domain": "medical"
+  },
+  {
+    "text": "The plea bargain was accepted by the district attorney.",
+    "domain": "legal"
+  },
+  {
+    "text": "The team celebrated their championship victory.",
+    "domain": "general"
+  },
+  {
+    "text": "The EKG results show an irregular heartbeat.",
+    "domain": "medical"
+  },
+  {
+    "text": "This contract is governed by the laws of the State of California.",
+    "domain": "legal"
+  },
+  {
+    "text": "The weather forecast predicts rain for this evening.",
+    "domain": "general"
+  },
+  {
+    "text": "A placebo was administered to the control group in the study.",
+    "domain": "medical"
+  },
+  {
+    "text": "She filed a lawsuit for wrongful termination.",
+    "domain": "legal"
+  },
+  {
+    "text": "The bakery opens at 6 AM every morning.",
+    "domain": "general"
+  },
+  {
+    "text": "The patient's informed consent is required before any procedure.",
+    "domain": "medical"
+  },
+  {
+    "text": "The defendant pleaded the Fifth Amendment.",
+    "domain": "legal"
+  },
+  {
+    "text": "He enjoys birdwatching in the local nature preserve.",
+    "domain": "general"
+  },
+  {
+    "text": "An organ transplant requires a compatible donor.",
+    "domain": "medical"
+  },
+  {
+    "text": "The firm specializes in intellectual property law.",
+    "domain": "legal"
+  },
+  {
+    "text": "The library is a quiet place to study for exams.",
+    "domain": "general"
+
+  },
+  {
+    "text": "The patient was diagnosed with type 2 diabetes.",
+    "domain": "medical"
+  },
+  {
+    "text": "The jury reached a unanimous verdict.",
+    "domain": "legal"
+  },
+  {
+    "text": "The new smartphone has an impressive camera.",
+    "domain": "general"
+  },
+  {
+    "text": "A new medical device requires FDA approval before it can be sold.",
+    "domain": "medical"
+  },
+  {
+    "text": "The legal precedent set by that case is still cited today.",
+    "domain": "legal"
+  },
+  {
+    "text": "The garden is full of blooming roses and tulips.",
+    "domain": "general"
+  },
+  {
+    "text": "He received a prescription for pain medication.",
+    "domain": "medical"
+  },
+  {
+    "text": "The suspect was apprehended and read his Miranda rights.",
+    "domain": "legal"
+  },
+  {
+    "text": "The satellite orbits the Earth every 90 minutes.",
+    "domain": "general"
+  },
+  {
+    "text": "The hospital's cardiology department is world-renowned.",
+    "domain": "medical"
+  },
+  {
+    "text": "The lawyer presented compelling evidence to the court.",
+    "domain": "legal"
+  },
+  {
+    "text": "The recipe calls for two cups of flour and a teaspoon of salt.",
+    "domain": "general"
+  },
+  {
+    "text": "The patient's prognosis is excellent after the treatment.",
+    "domain": "medical"
+  },
+  {
+    "text": "Copyright infringement is a serious federal offense.",
+    "domain": "legal"
+  },
+  {
+    "text": "The sun sets in the west and rises in the east.",
+    "domain": "general"
+  },
+  {
+    "text": "A medical power of attorney allows someone to make healthcare decisions for you.",
+    "domain": "legal"
+  },
+  {
+    "text": "The patient's family filed a medical malpractice lawsuit.",
+    "domain": "legal"
+  },
+  {
+    "text": "The doctor's testimony was a key part of the court case.",
+    "domain": "legal"
+  },
+  {
+    "text": "He needs a legal guardian to approve the medical procedure.",
+    "domain": "medical"
+  },
+  {
+    "text": "The new health care law is being challenged in court.",
+    "domain": "legal"
+
+  },
+  {
+    "text": "The patient is in critical condition in the intensive care unit.",
+    "domain": "medical"
+  },
+  {
+    "text": "The judge issued a subpoena for the financial records.",
+    "domain": "legal"
+  },
+  {
+    "text": "The coffee shop is a popular meeting place for students.",
+    "domain": "general"
+  },
+  {
+    "text": "She is a registered nurse with a decade of experience.",
+    "domain": "medical"
+  },
+  {
+    "text": "The statute of limitations for this crime has expired.",
+    "domain": "legal"
+  },
+  {
+    "text": "The river flows from the mountains to the sea.",
+    "domain": "general"
+  },
+  {
+    "text": "The patient's allergies were noted in their medical file.",
+    "domain": "medical"
+  },
+  {
+    "text": "The two companies are involved in a contentious legal battle.",
+    "domain": "legal"
+  },
+  {
+    "text": "The new exhibit at the museum is very popular.",
+    "domain": "general"
+  },
+  {
+    "text": "The patient is being prepped for emergency surgery.",
+    "domain": "medical"
+  },
+  {
+    "text": "The attorney general announced a new federal investigation.",
+    "domain": "legal"
+  },
+  {
+    "text": "The cat curled up on the sofa and fell asleep.",
+    "domain": "general"
+
+  },
+  {
+    "text": "The patient's blood work came back with elevated white cell counts.",
+    "domain": "medical"
+  },
+  {
+    "text": "The legal dispute was settled out of court.",
+    "domain": "legal"
+  },
+  {
+    "text": "The new bridge is an impressive feat of engineering.",
+    "domain": "general"
+  },
+  {
+    "text": "He has a chronic condition that requires daily medication.",
+    "domain": "medical"
+  },
+  {
+    "text": "The defendant's alibi was confirmed by several witnesses.",
+    "domain": "legal"
+  },
+  {
+    "text": "The forest is home to a wide variety of wildlife.",
+    "domain": "general"
+  },
+  {
+    "text": "The vaccine has been proven to be safe and effective in clinical trials.",
+    "domain": "medical"
+  },
+  {
+    "text": "The new law will go into effect on the first of January.",
+    "domain": "legal"
+  },
+  {
+    "text": "The computer algorithm can process data much faster than a human.",
+    "domain": "general"
+  },
+  {
+    "text": "The patient is suffering from severe dehydration.",
+    "domain": "medical"
+  },
+  {
+    "text": "The contract contains a force majeure clause.",
+    "domain": "legal"
+  },
+  {
+    "text": "The painting is a masterpiece of the Renaissance period.",
+    "domain": "general"
+  },
+  {
+    "text": "The medical examiner determined the cause of death.",
+    "domain": "medical"
+  },
+  {
+    "text": "He was disbarred for unethical conduct.",
+    "domain": "legal"
+  },
+  {
+    "text": "The volcano has been dormant for centuries.",
+    "domain": "general"
+  },
+  {
+    "text": "The patient has a family history of heart disease.",
+    "domain": "medical"
+  },
+  {
+    "text": "The lawsuit alleges breach of contract.",
+    "domain": "legal"
+  },
+  {
+    "text": "The play received a standing ovation from the audience.",
+    "domain": "general"
+  },
+  {
+    "text": "He is an orthopedic surgeon specializing in knee replacements.",
+    "domain": "medical"
+  },
+  {
+    "text": "The company filed for Chapter 11 bankruptcy protection.",
+    "domain": "legal"
+  },
+  {
+    "text": "The Earth revolves around the Sun.",
+    "domain": "general"
+  },
+  {
+    "text": "The patient requires a course of chemotherapy.",
+    "domain": "medical"
+  },
+  {
+    "text": "The prosecutor delivered a powerful opening statement.",
+    "domain": "legal"
+  },
+  {
+    "text": "The city is known for its vibrant nightlife and music scene.",
+    "domain": "general"
+  },
+  {
+    "text": "The study was published in a prestigious medical journal.",
+    "domain": "medical"
+  },
+  {
+    "text": "The legal framework for online commerce is still evolving.",
+    "domain": "legal"
+  },
+  {
+    "text": "The novel is a coming-of-age story set in a small town.",
+    "domain": "general"
+  },
+  {
+    "text": "The patient's condition has been upgraded from critical to stable.",
+    "domain": "medical"
+  },
+  {
+    "text": "The legal team is preparing for a lengthy appeals process.",
+    "domain": "legal"
+  },
+  {
+    "text": "The telescope can see galaxies billions of light-years away.",
+    "domain": "general"
+  },
+  {
+    "text": "The patient is being monitored in the neonatal intensive care unit.",
+    "domain": "medical"
+  },
+  {
+    "text": "The deposition is scheduled for next Tuesday.",
+    "domain": "legal"
+  },
+  {
+    "text": "The new electric car has a range of over 300 miles.",
+    "domain": "general"
+  },
+  {
+    "text": "The patient has been referred to a specialist for further evaluation.",
+    "domain": "medical"
+  },
+  {
+    "text": "The legal implications of artificial intelligence are a subject of intense debate.",
+    "domain": "legal"
+  },
+  {
+    "text": "The restaurant is famous for its authentic Italian cuisine.",
+    "domain": "general"
+  },
+  {
+    "text": "The patient is recovering well from the anesthesia.",
+    "domain": "medical"
+  },
+  {
+    "text": "The judge's ruling set a new legal standard.",
+    "domain": "legal"
+  },
+  {
+    "text": "The mountain range is popular with hikers and climbers.",
+    "domain": "general"
+  },
+  {
+    "text": "The patient was admitted to the hospital with a concussion.",
+    "domain": "medical"
+  },
+  {
+    "text": "The legal aid society provides free services to low-income clients.",
+    "domain": "legal"
+  },
+  {
+    "text": "The symphony orchestra performed a selection of classical music.",
+    "domain": "general"
+  },
+  {
+    "text": "The patient is allergic to penicillin.",
+    "domain": "medical"
+  },
+  {
+    "text": "The law firm has a strong reputation in corporate litigation.",
+    "domain": "legal"
+  },
+  {
+    "text": "The children built a sandcastle on the beach.",
+    "domain": "general"
+  },
+  {
+    "text": "The patient's immune system is compromised.",
+    "domain": "medical"
+  },
+  {
+    "text": "The grand jury indicted the suspect on multiple charges.",
+    "domain": "legal"
+  },
+  {
+    "text": "The book is a thrilling mystery with an unexpected twist.",
+    "domain": "general"
+  },
+  {
+    "text": "He works as a radiologist, interpreting X-rays and CT scans.",
+    "domain": "medical"
+  },
+  {
+    "text": "The legal system is based on the principle of innocent until proven guilty.",
+    "domain": "legal"
+  },
+  {
+    "text": "The company's new marketing campaign was very successful.",
+    "domain": "general"
+  },
+  {
+    "text": "The patient's mental health is an important part of their overall treatment plan.",
+    "domain": "medical"
+  },
+  {
+    "text": "The two sides are in arbitration to resolve their dispute.",
+    "domain": "legal"
+  },
+  {
+    "text": "The fisherman caught a large salmon in the river.",
+    "domain": "general"
+  },
+  {
+    "text": "The new drug has been shown to reduce cholesterol levels.",
+    "domain": "medical"
+  },
+  {
+    "text": "He signed a power of attorney, giving his lawyer the authority to act on his behalf.",
+    "domain": "legal"
+  },
+  {
+    "text": "The team is developing a new algorithm for data analysis.",
+    "domain": "general"
+  },
+  {
+    "text": "The patient is scheduled for a routine check-up.",
+    "domain": "medical"
+  },
+  {
+    "text": "The law requires all drivers to have liability insurance.",
+    "domain": "legal"
+  },
+  {
+    "text": "The professor gave an interesting lecture on medieval history.",
+    "domain": "general"
+  },
+  {
+    "text": "The patient's temperature is slightly elevated.",
+    "domain": "medical"
+  },
+  {
+    "text": "The legal arguments were presented before the Supreme Court.",
+    "domain": "legal"
+  },
+  {
+    "text": "The athlete broke a world record in the competition.",
+    "domain": "general"
+  },
+  {
+    "text": "The patient is being treated for a bacterial infection.",
+    "domain": "medical"
+  },
+  {
+    "text": "The company is being sued for patent infringement.",
+    "domain": "legal"
+  },
+  {
+    "text": "The farmer is harvesting the crops in the field.",
+    "domain": "general"
+  },
+  {
+    "text": "The patient's recovery will require several weeks of rehabilitation.",
+    "domain": "medical"
+  },
+  {
+    "text": "The legal documents must be notarized to be official.",
+    "domain": "legal"
+  },
+  {
+    "text": "The new skyscraper has changed the city's skyline.",
+    "domain": "general"
+  },
+  {
+    "text": "The patient has been advised to make some lifestyle changes to improve their health.",
+    "domain": "medical"
+  },
+  {
+    "text": "The legal team conducted extensive due diligence before the acquisition.",
+    "domain": "legal"
+  },
+  {
+    "text": "The national park is a popular destination for tourists.",
+    "domain": "general"
+  },
+  {
+    "text": "The patient's condition is being managed with medication and diet.",
+    "domain": "medical"
+  },
+  {
+    "text": "The legal proceedings are expected to last for several months.",
+    "domain": "legal"
+  },
+  {
+    "text": "The new app helps people learn a new language.",
+    "domain": "general"
+  },
+  {
+    "text": "The patient has a follow-up appointment with the specialist next week.",
+    "domain": "medical"
+  },
+  {
+    "text": "The legal code is a complex set of rules and regulations.",
+    "domain": "legal"
+  },
+  {
+    "text": "The dog wagged its tail happily.",
+    "domain": "general"
+  },
+  {
+    "text": "The patient is being discharged from the hospital today.",
+    "domain": "medical"
+  },
+  {
+    "text": "The legal counsel advised the company to settle the case.",
+    "domain": "legal"
+  },
+  {
+    "text": "The new policy aims to reduce carbon emissions.",
+    "domain": "general"
+  },
+  {
+    "text": "The patient's medical history is confidential.",
+    "domain": "medical"
+  },
+  {
+    "text": "The legal system is an important pillar of a democratic society.",
+    "domain": "legal"
+  },
+  {
+    "text": "The beach is a great place to relax and enjoy the sun.",
+    "domain": "general"
+  },
+  {
+    "text": "The patient has been referred to a nutritionist for dietary advice.",
+    "domain": "medical"
+  },
+  {
+    "text": "The legal battle over the inheritance was long and complicated.",
+    "domain": "legal"
+  },
+  {
+    "text": "The movie is based on a true story.",
+    "domain": "general"
+  },
+  {
+    "text": "The patient's vital signs are being monitored closely.",
+    "domain": "medical"
+  },
+  {
+    "text": "The legal document was drafted by an experienced attorney.",
+    "domain": "legal"
+  },
+  {
+    "text": "The new research paper was published in a scientific journal.",
+    "domain": "general"
+  },
+  {
+    "text": "The patient is being treated in the emergency room.",
+    "domain": "medical"
+  },
+  {
+    "text": "The legal implications of the new technology are still being debated.",
+    "domain": "legal"
+  },
+  {
+    "text": "The child is learning to ride a bicycle.",
+    "domain": "general"
+  },
+  {
+    "text": "The patient has a rare genetic disorder.",
+    "domain": "medical"
+  },
+  {
+    "text": "The legal process can be slow and expensive.",
+    "domain": "legal"
+  },
+  {
+    "text": "The new restaurant in town has excellent reviews.",
+    "domain": "general"
+  }
+]
+

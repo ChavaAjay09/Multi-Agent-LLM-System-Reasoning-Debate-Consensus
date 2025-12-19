@@ -1,0 +1,6 @@
+.env
+*.ipynb
+*.ipynb_checkpoints
+__pycache__/
+*.pt
+*.ckpt
